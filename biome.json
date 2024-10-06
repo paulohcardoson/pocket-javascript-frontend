@@ -1,0 +1,13 @@
+{
+	"$schema": "https://biomejs.dev/schemas/1.7.0/schema.json",
+	"files": {
+		"include": ["src/**/*.js", "src/**/*.ts", "src/**/*.tsx"]
+	},
+	"javascript": {
+		"formatter": {
+			"enabled": true,
+			"quoteStyle": "double",
+			"jsxQuoteStyle": "double"
+		}
+	}
+}
